@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CQO+fa0ybn8ffyWsFEzS/PGXujDRPFlaqAqGc8SgT6g498a3cXlsAgHp95tw6Iu1uk4CujqJWYv+6aNwSY5OOg==",
+  "dgSpecHash": "B+bmmYmnh9NUBcxeJnAHf6XE+EwvzyL+DM+ziBRed92AidnM7OVEKcO2jT7lTKZcojLF2vzGX+G6/gPHU0p9cw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
+  "projectFilePath": "E:\\Work\\Projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\99-ErofeenkoVA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\vlade\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

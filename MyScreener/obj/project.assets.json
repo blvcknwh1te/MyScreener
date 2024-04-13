@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\99-ErofeenkoVA\\.nuget\\packages\\": {},
+    "C:\\Users\\vlade\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
+      "projectUniqueName": "E:\\Work\\Projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
       "projectName": "MyScreener",
-      "projectPath": "D:\\projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
-      "packagesPath": "C:\\Users\\99-ErofeenkoVA\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\MyScreener\\MyScreener\\MyScreener\\obj\\",
+      "projectPath": "E:\\Work\\Projects\\MyScreener\\MyScreener\\MyScreener\\MyScreener.csproj",
+      "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\Projects\\MyScreener\\MyScreener\\MyScreener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\99-ErofeenkoVA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -122,7 +122,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.421\\RuntimeIdentifierGraph.json"
       }
     }
   }
